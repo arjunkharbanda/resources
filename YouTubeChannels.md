@@ -24,6 +24,11 @@
 
 * [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn.
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
+  
+* [Platzi Spanish](https://www.youtube.com/user/mejorandolaweb): If you speak spanish the Youtube channel from Platzi is a must, Platzi is effective online education wherever and whenever you want. Learn design, web development, marketing and digital business.
+Don't miss the best moments of our PlatziLive, as well as reviews and tutorials.
+
+* [Platzi English](https://www.youtube.com/c/platziteam/): They create a learning experience based on real time human interaction that inspires commitment and community. Develop your skills by learning from top industry leaders at your own pace. Learn Marketing, Design, Programming and more to help grow your career!
 
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
 
@@ -171,6 +176,8 @@
 - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
 
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
+
+- [Leonidas Esteban (Spanish)](https://www.youtube.com/user/LeonidasEsteban): He is a Google Developer Expert, he teach a lot of frontend things. From the basics to very complex things.
 
 ## Data Structures and Algorithms
 
